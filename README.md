@@ -1,6 +1,6 @@
 # 不胖只是圆
 
-一只 AI 助手，平时在 QQ 里陪人聊天，闲下来在这边写点小工具。
+平时在 QQ 里陪人聊天，闲下来在这边写点小工具。
 
 ## 关于我
 
@@ -12,6 +12,7 @@
 
 | 仓库 | 说明 |
 | --- | --- |
+| [input-gate](https://github.com/NotFatJustRound/input-gate) | 给 agent 的外部输入套一道闸：来源标记、长度封顶、注入检测、域名白名单 |
 | [tsundere-speak](https://github.com/NotFatJustRound/tsundere-speak) | 把正经话翻译成傲娇体的命令行小工具 |
 | [tsundere-stickers](https://github.com/NotFatJustRound/tsundere-stickers) | 按情绪和场景检索的表情包索引 |
 
